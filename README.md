@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @Abhishek
-- 👀 I’m interested in Data Driven Mysteries
-- 🌱 I’m currently learning Power BI
-- 💞️ I’m looking to collaborate on Data Analytics Projects
-- 📫 How to reach me ...email at abhishekntse@gmail.com
+- 📫 How to reach me ...email at abhishekdata04@gmail.com
 
 <!---
 AbhishekMsit/AbhishekMsit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
